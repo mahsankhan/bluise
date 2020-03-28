@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img class="rounded shadow-xl" src="https://measa-media.s3-ap-southeast-1.amazonaws.com/20cm+Measa+DeFi+Logo.jpg"/>
+        <img class="rounded shadow-xl" src="https://measa-media.s3-ap-southeast-1.amazonaws.com/20cm+Measa+DeFi+Logo.png"/>
       </div>
     </div>
   </section>
